@@ -7,6 +7,21 @@ This project implements a contact form using TypeScript, where users can submit 
 Features
 
 Form Validation: Ensures all fields are filled in and validates email format.
+
 MockAPI Integration: Submits form data to a mock REST API for testing.
-Asynchronous Form Submission: Uses fetch API for asynchronous HTTP POST requests
+
+Asynchronous Form Submission: Uses fetch API for asynchronous HTTP POST requests.
+
 User Feedback: Displays success or error messages based on the result of the submission.
+
+Technologies Used
+
+TypeScript
+
+HTML
+
+CSS
+
+JavaScript
+
+MockAPI
